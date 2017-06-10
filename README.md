@@ -7,7 +7,7 @@ PinterestRankChecker also gets the number of search results for Pinterest.com us
 this gives us an idea of how popular or how many pins/boards there are on Pinterest for this keyword.
 
 # INSTALL
-Download the exe file and run it to install the program. If you have issues installing the program or running it, your system might require Microsoft Visual Studio 2015 redistributable to be installed. Google it and install it on your machine.
+Download the exe file and run it. On the first run the software will download the required config files which can take a little time. If you have issues running it, your system might require Microsoft Visual Studio 2015 redistributable to be installed. Google it and install it on your machine.
 
 This software works on Windows ONLY! 
 
